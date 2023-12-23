@@ -1,5 +1,4 @@
-# [My Blog](https://janosh.dev)
+# Blog for Cristian + Petra
 
-I write about things I learned in machine learning, data visualization, web development and coding best practices.
+This is a blog I am creating for some friends. Will fill with content once I have it from them.
 
-![Landing Page](https://github.com/janosh/blog/assets/30958850/962918ab-f9f7-470b-a605-ebbfa11461b2)

@@ -12,7 +12,7 @@
 
 <nav>
   {#each routes as slug, idx}
-    {@const href = `/physics/${slug}`}
+    {@const href = `/about-us/${slug}`}
     {#if idx > 0}<strong>&bull;</strong>{/if}
     <a {href} aria-current={is_current(href)}>{slug}</a>
   {/each}

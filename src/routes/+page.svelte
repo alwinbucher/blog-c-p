@@ -1,6 +1,5 @@
 <script lang="ts">
-  import Icon from '@iconify/svelte'
-  import Physics from './physics/+page@.md'
+  import AboutUs from './about-us/+page@.md'
   import Posts from './posts/+page@.svelte'
 </script>
 
@@ -8,39 +7,11 @@
 <h1>Janosh</h1>
 
 <p>
-  I'm interested in computational materials discovery, machine learning, software
-  engineering & data viz.<br />
-  Outside of work, I enjoy hiking and cycling. The rougher the terrain, the better! ⛰️
+  We like sailing with our cat!<br />
+  Our cat likes sailing with us!
 </p>
 
-<strong>
-  Check out my latest work
-  <br />
-  <a href="https://matbench-discovery.materialsproject.org">
-    matbench-discovery.materialsproject.org
-  </a>
-  [<a href="https://arxiv.org/abs/2308.14920">arXiv</a>]
-  <br />
-  A new framework to evaluate ML energy models on materials stability prediction from unrelaxed
-  crystals
-</strong>
-
-<address>
-  <a href="https://github.com/janosh" target="_blank" rel="noreferrer">
-    <Icon inline icon="octicon:mark-github" />
-  </a>
-  <a href="https://twitter.com/_jrib" target="_blank" rel="noreferrer">
-    <Icon inline icon="logos:twitter" />
-  </a>
-  <a href="https://linkedin.com/in/janosh-riebesell/" target="_blank" rel="noreferrer">
-    <Icon inline icon="bi:linkedin" />
-  </a>
-  <a href="mailto:janosh.riebesell@gmail.com" target="_blank" rel="noreferrer">
-    <Icon inline icon="mdi:email" width="1.35em" style="vertical-align: middle;" />
-  </a>
-</address>
-
-<Physics />
+<AboutUs />
 
 <Posts />
 
