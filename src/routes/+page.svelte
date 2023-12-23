@@ -29,13 +29,6 @@
   :is(h2, p) {
     text-align: center;
   }
-  address {
-    display: flex;
-    place-content: center;
-    place-items: center;
-    gap: 1em;
-    font-size: 16pt;
-  }
   strong {
     text-align: center;
     color: #eee;
