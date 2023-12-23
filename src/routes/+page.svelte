@@ -3,7 +3,7 @@
   import Posts from './posts/+page@.svelte'
 </script>
 
-<img src="./janosh.jpg" alt="me" width="200" />
+<img src="./boot.jpeg" alt="Our Boat" width="200" />
 <h1>Janosh</h1>
 
 <p>
